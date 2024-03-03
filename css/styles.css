@@ -61,6 +61,26 @@
     padding-top: 7%;
     padding-bottom:0 ;
 }
+
+.carousel-item {
+    height: 400px;
+}
+.proj1{
+    background: url(../assets/project1.webp) no-repeat ;
+    background-size: cover;
+}
+.proj2{
+    background: url(../assets/project2.webp) no-repeat ;
+    background-size: cover;
+}
+.proj3{
+    background: url(../assets/project3.webp) no-repeat ;
+    background-size: cover;
+}
+.proj4{
+    background: url(../assets/project4.webp) no-repeat ;
+    background-size: cover;
+}
 .connect-container{
     padding: 7% 0 7% 0;
 }
@@ -127,5 +147,11 @@ footer img{
     }
     .card{
         padding: 35px 0px 0px;
+    }
+}
+@media (max-width:700px){
+    .project-container{
+        padding-left: 1%;
+        padding-right: 1%;
     }
 }
