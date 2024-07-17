@@ -10,4 +10,5 @@ export default defineConfig({
       '@src': path.resolve(__dirname, './src'),
     },
   },
+  base: 'https://dakrfox.github.io/MyLandingPage/',
 })
