@@ -356,7 +356,7 @@ function App() {
                 </div>
                 <img
                   className="w-full mt-6 rounded mb-6"
-                  src="https://lh5.googleusercontent.com/76NxgDxUuhZGlRyrLekJYpYA8nHl2_Jeio4Ae13DAzNsX5p920m6eh10dWl4R-N__iWPuISgHqOkWh3YnvfzdKasPJtnHlTPQo3Y30Daji1YGEd4STUkQTByY-JIUCtk=w1280"
+                  src="https://lh6.googleusercontent.com/O0VSyXqTWIKLihrw0wu1Zq7OWmCIkZmf3v_Yiyg2KOvUMZeBNDPmESHZBk3EEf_B3djNHZQBrFq52Pmi2mLJ8PL5O0fwaiuuv6zUpCQHu4sx17SUaulKItZdRvWoxvgY=w1280"
                   alt="userapp"
                 />
 
@@ -380,7 +380,7 @@ function App() {
               </div>
               <img
                 className="w-full mt-6 rounded mb-6"
-                src="https://lh3.googleusercontent.com/-b4rO0cbvibbI-8iJm14G-cI1KAqEC0r6B5xS_E8s5IqLmSDm5PRLpcLPoL-N2BaMQZAukyj_dngKVekg4WSkTZiUatzIfuYULC-Ox8WR0oirk5xg07n3MgF7rli_89CoA=w1280"
+                src="https://lh6.googleusercontent.com/sSY60jOv-F5asrKxcjvlyAFPkuQY10ezaXIL_xziOmvKSoEUz-d1uF1VpCLR2aBSz5KjNyYlI1FFp4h6Sj21NFhxG2siTaV9_aMArGFNr7zu3h6RATFDE84z18Qh3zEiGA=w1280"
                 alt="userapp"
               />
               <h3 className="text-md  text-gray-400">ReactJS/NextJS | TS</h3>
@@ -537,8 +537,23 @@ function App() {
         <div className="w-full max-w-screen-xl mx-auto p-4 md:py-8">
           <div className="sm:flex sm:items-center sm:justify-between">
             <a className="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse">
-              <img src="/DF.svg" className="h-8 rounded" alt="NIMH Logo" />
-              <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
+            <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  version="1.0"
+                  className="rounded"
+                  width="20.000000pt"
+                  height="20.000000pt"
+                  viewBox="0 0 500.000000 500.000000"
+                  preserveAspectRatio="xMidYMid meet"
+                >
+                  <g
+                    transform="translate(0.000000,500.000000) scale(0.100000,-0.100000)"
+                    fill="#000000"
+                    stroke="none"
+                  >
+                    <path d="M0 3180 l0 -1820 63 0 62 0 238 1037 c131 571 238 1041 237 1046 0 4 -38 7 -84 7 l-84 0 7 28 7 27 439 0 439 0 226 -775 c124 -426 228 -781 231 -789 4 -11 350 1477 349 1502 0 4 -38 7 -85 7 -47 0 -85 2 -85 4 0 3 4 16 10 30 l10 26 215 0 c118 0 215 -2 215 -4 0 -3 -4 -16 -10 -30 -9 -25 -12 -26 -95 -26 -47 0 -85 -1 -85 -2 0 -2 -112 -487 -248 -1078 l-248 -1075 -221 -3 -221 -2 -19 62 c-10 35 -147 494 -303 1020 -157 527 -287 958 -290 958 -3 0 -106 -438 -229 -973 -123 -534 -226 -978 -228 -984 -4 -10 16 -13 81 -13 92 0 100 -5 76 -51 -10 -18 -23 -19 -190 -19 l-180 0 0 -645 0 -645 2500 0 2500 0 0 1725 0 1725 -59 0 -59 0 -27 -112 c-14 -62 -122 -531 -239 -1043 l-213 -930 83 -3 c89 -3 97 -9 74 -53 -10 -18 -26 -19 -485 -19 l-475 0 0 23 c0 40 12 46 100 49 l85 3 226 980 c125 539 225 982 223 984 -2 2 -6 2 -9 0 -2 -3 -214 -457 -470 -1009 -257 -553 -471 -1010 -477 -1017 -15 -18 -387 -19 -393 0 -2 6 -20 428 -40 937 -35 925 -46 1118 -58 1090 -3 -8 -106 -447 -227 -975 -122 -528 -223 -968 -226 -977 -5 -16 3 -18 80 -18 92 0 100 -6 76 -51 -10 -18 -23 -19 -220 -19 -226 0 -227 0 -200 51 9 16 22 19 95 19 l84 0 11 53 c6 28 113 497 239 1042 l227 990 -84 3 -83 3 3 27 3 27 430 0 430 0 22 -803 c11 -442 23 -805 25 -807 1 -1 172 361 378 806 l375 809 387 0 388 0 0 745 0 745 -2500 0 -2500 0 0 -1820z" />
+                  </g>
+                </svg>              <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
                 NiCoded
               </span>
             </a>
